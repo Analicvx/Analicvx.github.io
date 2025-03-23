@@ -1,0 +1,62 @@
+<!Doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>mi pagina web</title>
+<head>
+<body>
+<h1><font color="#6B8E23">Parque Recreativo</font></h1>
+<img src="https://i.imgur.com/TUl7BAd.jpeg" width="450" height="200">
+<p>Este parque ha sido un lugar de encuentro, de recreación para familias, niños, alumnos y personas de todas las edades,el parque ofrece un refugio natural donde los residentes pueden
+disfrutar de actividades al aire libre, relajarse y conectar con sus vecinos. Sin embargo, a lo largo de los años ha enfrentado algunos desafíos que
+ requieren nuestra atención y esfuerzo colectivo. Es nuestro deseo revitalizar este espacio asegurando que sea un lugar seguro y acogedor para todos, a través de la colaboración y el compromiso de la comunidad, podemos
+trabajar juntos para mejorar y embellecer el parque, preservando su esencia como un lugar de alegría y convivencia.</p>
+</body>
+</html>
+<p><font color="#808000">Estado Actual:</font></p>
+
+<li>Entrada: Al entrar, cuando vas justo por la entrada te puedes percatar que la malla que compone la entrada del parque está caida</li>
+<li>Columpios: El parque cuenta con cuatro columpios, pero dos de ellos no se pueden utilizar</li>
+<li>Pintura: Las paredes están pintadas blancas lo que provoca que la tierra y el polvo se le adieran y haga que tenga un aspecto de suciedad</li>
+<li>Bebedero: El bebedero de agua no funcióna, ocasionando que las personas no puedan beber de el</li>
+<li>Juegos: El parque actualmente solo cuenta con dos tipos de juegos que son, los columpios y el sube y baja</li>
+<li>Limpieza: La limpieza del parque no era la mejor, ya que como está cerrado, es difícil la salida de los desechos de basura, lo que provoca que la basura se quede encerrada</li>
+
+<div>
+<img src="https://i.imgur.com/qadyuvc.jpeg" widht="400" height="300" alt="">
+<img src="https://i.imgur.com/blQpnWK.jpeg" widht="400" height="300" alt="">
+<img src="https://i.imgur.com/zJmO0UM.jpeg" widht="400" height="300" alt="">
+<img src="https://i.imgur.com/9hKn1tA.jpeg" widht="400" height="300" alt="">
+<img src="https://i.imgur.com/A19t4WV.jpeg" widht="400" height="300" alt="">
+<img src="https://i.imgur.com/QHhGtlq.jpeg" widht="400" height="300" alt="">
+</div>
+
+<p><font color="#8FBC8F">Propuestas de mejora:</font></p>
+
+
+<li>Asientos: implementar bancas para que las personas puedan descansar o estar sentados mientras cuidan a sus hijos</li>
+<li>Iluminación: colocar focos, ya que no cuenta con ninguna ilumunación en la noche</li>
+<li>Construir más juegos:Plantear la construcción de más juegos, como tobogán y pasamanos para que toda la comunidad los pueda disfrutar</li>
+<li>Pintura: pintar las paredes con diferentes colores para que le sea más llamativo, y que a la vez se vea más atractivo</li>
+
+<ol>
+
+<p>Consejos de seguridad en el parque:</p>
+<p>La seguridad de todos los visitantes es prioridad en el parque. Para garantizar una experiencia agradable y segura, te invitamos a seguir estos consejos.</p>
+<li>Supervisión de niños</l
+<li>Respeto por las normas del parque</li>
+<li>Cuidado al practicar deportes</li>
+<li>Recoger tu basura</li>
+</ul>
+<ol>
+<p><font color="#4B5320">Espacio para voluntariado:>/font></p>
+
+<p>El parque se puede fortalezer gracias al compromiso y participación activa de la comunidad, si deseas contribuir al embellecimiento y mantenimiento, puedes seguir lo siguiente.</p>
+<p>-Jornadas de limpieza: Reunir basura, plantar arboles y mantener el parque limpio</p>
+<p>-Mantenimiento de áreas verdes: Construir equipos que se dediquen al cuidado de los árboles y áreas verdes, aprendiendo sobre jardinería y conservación del medio ambiente</p>
+<p>-Organización de actividades: Ayudar a planificar y coordinar actividades recreativas y educativas para niños y familias, promoviendo la participación comunitaria y el uso del parque</p>
+<p>Promoción de proyectos: Contribuir a la difusión de ideas y proyectos para mejorar el parque, compartiendo tus habilidades y conocimientos con otros miembros de la comunidad</p>
+
+
+
+
